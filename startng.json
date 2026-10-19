@@ -1,0 +1,7 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "gems", "label": "Gems collected", "order": "highest" }
+    ]
+  }
+}
